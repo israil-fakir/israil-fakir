@@ -6,7 +6,7 @@
 
 I'm Md. Israil Fakir. I am a student of computer science and Engineering (CSE). I'm currently studying for my bachelor's degree at the Green University of Bangladesh. I am very interested in learning new technologies computers, programming, hardware, and hacking.
 
-Skills: C / C++/ Java/ HTML /CSS
+Skills: C / C++/ Java/ HTML /CSS/ Database
 
 - 🌱 I’m currently learning Object Oriented Programming in Java 
 
