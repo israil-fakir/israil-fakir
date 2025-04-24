@@ -18,4 +18,7 @@ Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a
 ---
 [![](https://visitcount.itsvg.in/api?id=israil-fakir&icon=8&color=9)](https://visitcount.itsvg.in)
 
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
