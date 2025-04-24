@@ -17,3 +17,4 @@ Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=israil-fakir&icon=8&color=9)](https://visitcount.itsvg.in)
+'anmol098/waka-readme-stats'
