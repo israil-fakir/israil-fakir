@@ -1,29 +1,15 @@
-name: Update WakaTime Graph
+name: Waka Readme
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows you to manually run this workflow
+    - cron: '0 0 * * *' # runs every day at midnight
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Graph
+    name: WakaTime Readme Stats
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Get WakaTime stats and update README
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SECTION_NAME: waka # This is a label to find where to put the graph
-          SHOW_LANGUAGE: "True" # Show languages
-          SHOW_OS: "False"    # Don't show OS
-          SHOW_PROJECTS: "False" # Don't show projects
-          SHOW_EDITORS: "False"  # Don't show editors
-          SHOW_COMMIT: "False"   # Don't show commit info
-          THEME: calm_pink      # Keep the theme consistent with your other stats
-          LAYOUT: compact       # Use a compact layout for the graph
