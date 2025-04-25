@@ -28,7 +28,8 @@ Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=israil-fakir&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ⏳ Weekly WakaTime Stats:
-![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true&cache_seconds=300)
+<a href="https://wakatime.com/@israil_fakir">Visit Wakatime profile</a>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=israil-fakir&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
