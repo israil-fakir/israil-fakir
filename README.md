@@ -36,6 +36,8 @@ Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a
 <a href="https://wakatime.com/@israil_fakir">Visit WakaTime profile</a>
 
 
+<figure><embed src="https://wakatime.com/share/@israil_fakir/b9559a15-4dd7-4584-aad7-8b02c4d252c1.svg"></embed></figure>
+
 
 
 
