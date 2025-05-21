@@ -27,7 +27,7 @@ Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a
 ![](https://nirzak-streak-stats.vercel.app/?user=israil-fakir&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=israil-fakir&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ⏳ Weekly WakaTime Stats:
+## ⏳ WakaTime Stats:
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true&cache_seconds=300)
 <br>
 [![wakatime](https://wakatime.com/badge/user/225c755d-8330-4a59-835d-e9362fd36509.svg)](https://wakatime.com/@225c755d-8330-4a59-835d-e9362fd36509)
