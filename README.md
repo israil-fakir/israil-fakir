@@ -30,7 +30,7 @@ Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a
 ## ⏳ WakaTime Stats:
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true&cache_seconds=300)
 <br>
-[![wakatime](https://wakatime.com/badge/user/225c755d-8330-4a59-835d-e9362fd36509.svg)](https://wakatime.com/@225c755d-8330-4a59-835d-e9362fd36509)
+[![wakatime total time](https://wakatime.com/badge/user/225c755d-8330-4a59-835d-e9362fd36509.svg)](https://wakatime.com/@225c755d-8330-4a59-835d-e9362fd36509)
 
 
 <a href="https://wakatime.com/@israil_fakir">Visit WakaTime profile</a>
