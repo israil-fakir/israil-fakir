@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, i am Md Israil Fakir<br>Developer<br>I'm Md. Israil Fakir. I am a student of Computer Science and Engineering (CSE). I'm currently studying for my bachelor's degree at the Green University of Bangladesh. I am very interested in learning new technologies, computers, programming, hardware, and hacking. 
+Hi there 👋, i am Md Israil Fakir<br>Learner<br>I'm Md. Israil Fakir. I am a student of Computer Science and Engineering (CSE). I'm currently studying for my bachelor's degree at the Green University of Bangladesh. I am very interested in learning new technologies, computers, programming, hardware, and hacking. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/keyfakir/) 
