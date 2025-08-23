@@ -35,9 +35,10 @@ Hi there 👋, i am Md Israil Fakir<br>Learner<br>I'm Md. Israil Fakir. I am a s
 [![wakatime](https://wakatime.com/badge/user/225c755d-8330-4a59-835d-e9362fd36509.svg)](https://wakatime.com/@225c755d-8330-4a59-835d-e9362fd36509)
 
 
-<a href="https://wakatime.com/@israil_fakir">Visit WakaTime profile</a>
 <be> 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=israil-fakir)
+
+<a href="https://wakatime.com/@israil_fakir">Visit WakaTime profile</a>
 
 
 
