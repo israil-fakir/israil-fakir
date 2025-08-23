@@ -36,7 +36,9 @@ Hi there 👋, i am Md Israil Fakir<br>Learner<br>I'm Md. Israil Fakir. I am a s
 
 
 <a href="https://wakatime.com/@israil_fakir">Visit WakaTime profile</a>
+<be>
 ![Visitor Count](https://profile-counter.glitch.me/{israil-fakir}/count.svg)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=israil-fakir)
 
 
 
