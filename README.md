@@ -68,7 +68,7 @@ Hi there 👋, i am Md Israil Fakir<br>Learner<br>I'm Md. Israil Fakir. I am a s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=israil-fakir&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ⏳ WakaTime Stats:
-<embed src="https://wakatime.com/share/@israil_fakir/d38754ec-5cba-4746-a74f-d9c3309e55ab.svg"></embed>
+<figure><embed src="https://wakatime.com/share/@israil_fakir/cd26eb1b-b98f-419e-98da-026d6d66b3cf.svg"></embed></figure>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true&cache_seconds=300) -->
 
