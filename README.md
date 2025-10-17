@@ -61,36 +61,27 @@ Hi there 👋, i am Md Israil Fakir<br>Learner<br>I'm Md. Israil Fakir. I am a s
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=israil-fakir&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=israil-fakir&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=israil-fakir&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ⏳ WakaTime Stats:
-<figure><embed src="https://wakatime.com/share/@israil_fakir/cd26eb1b-b98f-419e-98da-026d6d66b3cf.svg"></embed></figure>
+---
 
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=israil_fakir&theme=calm_pink&hide_border=true&cache_seconds=300) -->
+## ⏳ WakaTime Stats: 
 
+![WakaTime Code Activity Chart](https://wakatime.com/share/@israil_fakir/cd26eb1b-b98f-419e-98da-026d6d66b3cf.svg)
 
-
-[![wakatime](https://wakatime.com/badge/user/225c755d-8330-4a59-835d-e9362fd36509.svg)](https://wakatime.com/@225c755d-8330-4a59-835d-e9362fd36509)
-
-
-<!-- <figure><embed src="https://wakatime.com/share/@israil_fakir/5983b764-76f5-4566-9a5f-14399822062d.svg"></embed></figure>
-
-here the code activity showing -->
-
-
+[![WakaTime Total Time](https://wakatime.com/badge/user/225c755d-8330-4a59-835d-e9362fd36509.svg)](https://wakatime.com/@225c755d-8330-4a59-835d-e9362fd36509)
+ 
 <a href="https://wakatime.com/@israil_fakir">Visit WakaTime profile</a>
-<br> 
-<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=israil-fakir) -->
 
-
-
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=israil-fakir&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=israil-fakir&icon=8&color=9)](https://visitcount.itsvg.in)
+<!-- 
+[![](https://visitcount.itsvg.in/api?id=israil-fakir&icon=8&color=9)](https://visitcount.itsvg.in) -->
