@@ -11,21 +11,22 @@ jobs:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     
-    # 💥 CRITICAL FIX: Explicitly grant permissions to the job
+    # 🚨 NOTE: This is not needed if using a PAT, but we keep it for safety.
     permissions:
-      contents: write # Allows the workflow to commit changes to the README.md
-      actions: read    # General access for the workflow
+      contents: write 
+      actions: read    
 
     steps:
       - uses: actions/checkout@v4
 
-      # Using the stable anmol098 action with fixed, minimal inputs
+      # Using the stable anmol098 action.
       - name: Get WakaTime stats and update README
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SECTION_NAME: waka 
+          # 💥 CRITICAL FIX: Use the new PAT instead of the default GITHUB_TOKEN
+          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          SECTION_NAME: waka
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
