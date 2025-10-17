@@ -2,19 +2,26 @@ name: WakaTime Stats Updater
 
 on:
   schedule:
-    # Runs daily at 00:00 UTC
+    # Runs daily at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: wakatime/wakatime-readme-stats@master
+
+      # IMPORTANT: Using the stable action and removing the invalid inputs.
+      - name: Get WakaTime stats and update README
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # The username is used to fetch the correct WakaTime data
-          USERNAME: israil_fakir
+          SECTION_NAME: waka  # This is the section name used by this action
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_COMMIT: "False"
